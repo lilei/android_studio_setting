@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_PORT" value="22222" />
+    <option name="PAC_URL" value="http://mirrors.neusoft.edu.cn" />
+  </component>
+</application>
